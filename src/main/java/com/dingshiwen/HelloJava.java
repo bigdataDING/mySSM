@@ -13,5 +13,6 @@ public class HelloJava {
         System.out.println("hello mastertest");
         System.out.println("hello git3");
         System.out.println("hello hot=fixtest");
+         System.out.println("hello pullgithub");
     }
 }
